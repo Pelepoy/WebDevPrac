@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CSS - Bacon Fansite",
+		"git.ignoreLegacyWarning": false,
+		"git.enabled": true,
+		"git.enableSmartCommit": false
+	}
+}
